@@ -1,0 +1,15 @@
+/Users/Nekit/lesson_C#/lesson_1/bin/Debug/net6.0/lesson_1
+/Users/Nekit/lesson_C#/lesson_1/bin/Debug/net6.0/lesson_1.deps.json
+/Users/Nekit/lesson_C#/lesson_1/bin/Debug/net6.0/lesson_1.runtimeconfig.json
+/Users/Nekit/lesson_C#/lesson_1/bin/Debug/net6.0/lesson_1.dll
+/Users/Nekit/lesson_C#/lesson_1/bin/Debug/net6.0/lesson_1.pdb
+/Users/Nekit/lesson_C#/lesson_1/obj/Debug/net6.0/lesson_1.csproj.AssemblyReference.cache
+/Users/Nekit/lesson_C#/lesson_1/obj/Debug/net6.0/lesson_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Nekit/lesson_C#/lesson_1/obj/Debug/net6.0/lesson_1.AssemblyInfoInputs.cache
+/Users/Nekit/lesson_C#/lesson_1/obj/Debug/net6.0/lesson_1.AssemblyInfo.cs
+/Users/Nekit/lesson_C#/lesson_1/obj/Debug/net6.0/lesson_1.csproj.CoreCompileInputs.cache
+/Users/Nekit/lesson_C#/lesson_1/obj/Debug/net6.0/lesson_1.dll
+/Users/Nekit/lesson_C#/lesson_1/obj/Debug/net6.0/refint/lesson_1.dll
+/Users/Nekit/lesson_C#/lesson_1/obj/Debug/net6.0/lesson_1.pdb
+/Users/Nekit/lesson_C#/lesson_1/obj/Debug/net6.0/lesson_1.genruntimeconfig.cache
+/Users/Nekit/lesson_C#/lesson_1/obj/Debug/net6.0/ref/lesson_1.dll
