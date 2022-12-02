@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Nekit/Desktop/lesson_c#/seminar_1/seminar_1.csproj",
+      "projectUniqueName": "/Users/Nekit/Desktop/GeekBrains/lesson_c#/seminar_1/code_2/seminar_1.csproj",
       "projectName": "seminar_1",
-      "projectPath": "/Users/Nekit/Desktop/lesson_c#/seminar_1/seminar_1.csproj",
+      "projectPath": "/Users/Nekit/Desktop/GeekBrains/lesson_c#/seminar_1/code_2/seminar_1.csproj",
       "packagesPath": "/Users/Nekit/.nuget/packages/",
-      "outputPath": "/Users/Nekit/Desktop/lesson_c#/seminar_1/obj/",
+      "outputPath": "/Users/Nekit/Desktop/GeekBrains/lesson_c#/seminar_1/code_2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/Nekit/.nuget/NuGet/NuGet.Config"
