@@ -21,3 +21,10 @@
 /Users/Nekit/Desktop/GeekBrains/lesson_c#/lesson_2/code_5/obj/Debug/net7.0/code_4.dll
 /Users/Nekit/Desktop/GeekBrains/lesson_c#/lesson_2/code_5/obj/Debug/net7.0/refint/code_4.dll
 /Users/Nekit/Desktop/GeekBrains/lesson_c#/lesson_2/code_5/obj/Debug/net7.0/code_4.pdb
+/Users/Nekit/Desktop/GeekBrains/lesson_c#/lesson_2/code_5/bin/Debug/net7.0/code_4
+/Users/Nekit/Desktop/GeekBrains/lesson_c#/lesson_2/code_5/bin/Debug/net7.0/code_4.deps.json
+/Users/Nekit/Desktop/GeekBrains/lesson_c#/lesson_2/code_5/bin/Debug/net7.0/code_4.runtimeconfig.json
+/Users/Nekit/Desktop/GeekBrains/lesson_c#/lesson_2/code_5/bin/Debug/net7.0/code_4.dll
+/Users/Nekit/Desktop/GeekBrains/lesson_c#/lesson_2/code_5/bin/Debug/net7.0/code_4.pdb
+/Users/Nekit/Desktop/GeekBrains/lesson_c#/lesson_2/code_5/obj/Debug/net7.0/code_4.genruntimeconfig.cache
+/Users/Nekit/Desktop/GeekBrains/lesson_c#/lesson_2/code_5/obj/Debug/net7.0/ref/code_4.dll
