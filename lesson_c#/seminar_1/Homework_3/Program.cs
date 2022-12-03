@@ -1,4 +1,4 @@
-﻿// Домашка 3 (работает идеально)
+﻿// Домашка 3
 Console.WriteLine("введи число");
 int i = int.Parse(Console.ReadLine());
 int result = i%2;

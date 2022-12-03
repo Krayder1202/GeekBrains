@@ -1,4 +1,4 @@
-﻿// Домашка 2 (Работает, но не идельно)
+﻿// Домашка 2 
 
 Console.WriteLine("Input first number");
 int a = int.Parse(Console.ReadLine());
