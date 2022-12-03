@@ -10,12 +10,11 @@ Console.WriteLine("Input third number");
 int c = int.Parse(Console.ReadLine());
 int max = 0;
 
-if (a<b)
+if (a<=b)
 {
     max=b;
-
     
-    if (max<c)
+    if (max<=c)
     {
         max=c;
         System.Console.WriteLine(max);
