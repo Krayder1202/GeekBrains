@@ -13,8 +13,8 @@ int max = 0;
 if (a<b)
 {
     max=b;
-    System.Console.WriteLine(max);
 
+    
     if (max<c)
     {
         max=c;
@@ -26,15 +26,8 @@ if (a<b)
         System.Console.WriteLine(max);
     }
 }
-else 
-{   
+else
+{
     max=a;
     System.Console.WriteLine(max);
-    
-    if (max<c);
-    {
-        max=c;
-        System.Console.WriteLine(max);
-    }
-    
 }

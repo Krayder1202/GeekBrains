@@ -1,6 +1,12 @@
 ﻿// Домашка 4 (работает идеально)
 
-Console.WriteLine("Input first number");
-int a = int.Parse(Console.ReadLine());
+Console.WriteLine("введите число"); 
+int i= int.Parse(Console.ReadLine());
+int j= 0; 
+while (i<=j)
+{
+    Console.WriteLine(j);
+    j++;
+}
 
 
