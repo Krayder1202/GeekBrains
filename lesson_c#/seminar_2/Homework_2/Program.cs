@@ -2,12 +2,12 @@
 
 System.Console.WriteLine("input number ");
 
-int Number = Convert.ToInt32(Console.ReadLine());
+int Number = int.Parse(Console.ReadLine());
 string NumberText = Convert.ToString(Number);
 
 if (NumberText.Length > 2)
 {
-  System.Console.WriteLine("третья цифра" + NumberText[2]);
+  System.Console.WriteLine("третья цифра " + NumberText[2]);
 }
 else {
   System.Console.WriteLine("No Profit");
