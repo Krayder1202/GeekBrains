@@ -1,13 +1,14 @@
 ﻿// Домашка 2 (будут по ней вопросы на семинаре)
 
-Console.Write("Введи число: ");
+System.Console.WriteLine("input number ");
+
 int Number = Convert.ToInt32(Console.ReadLine());
 string NumberText = Convert.ToString(Number);
 
 if (NumberText.Length > 2)
 {
-  Console.WriteLine("третья цифра -> " + NumberText[2]);
+  System.Console.WriteLine("третья цифра" + NumberText[2]);
 }
 else {
-  Console.WriteLine("-> третьей цифры нет");
+  System.Console.WriteLine("No Profit");
 }

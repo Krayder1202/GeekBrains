@@ -1,6 +1,6 @@
 ﻿// Домашка 3
 
-Console.WriteLine("input number?"); //вывод на экран сообщения//
+System.Console.WriteLine("input number?"); //вывод на экран сообщения//
 int number=int.Parse(Console.ReadLine()); //ввод в терминал первого значения//
 
 switch (number)
