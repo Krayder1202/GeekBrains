@@ -4,7 +4,7 @@
 int[] array = new int[8];
 Random myRandom = new Random();
  
-Console.WriteLine("Вывод с помощью for");
+Console.WriteLine("Profit");
 for (int i = 0; i < array.Length; i++)
 {
     array[i] = myRandom.Next(0, 20);    
