@@ -1,6 +1,5 @@
 ﻿//Домашка 3
 
-
 int[] array = new int[8];
 Random myRandom = new Random();
  
