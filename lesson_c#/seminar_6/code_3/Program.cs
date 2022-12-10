@@ -1,17 +1,12 @@
-﻿// 
+﻿//Последовательность Фибоначчи через рексурсию
 
-Console.WriteLine("Input number A");
-int a = int.Parse(Console.ReadLine());
-Console.WriteLine("Input number B");
-int b = int.Parse(Console.ReadLine());
-Console.WriteLine("Input number C");
-int c = int.Parse(Console.ReadLine());
-
-if (a<b+c && b<a+c && c<a+b)
+int Fibonacci(int n)
 {
-Console.WriteLine("Profit");
+    if (n == 1) return 0;
+    else if (n == 2) return 1;
+    else return Fibonacci(n - 1) + Fibonacci(n - 2);
 }
-else
+for (int i = 1; i < 7; i++)
 {
-Console.WriteLine("No Profit");  
+      Console.WriteLine(Fibonacci(i));
 }
