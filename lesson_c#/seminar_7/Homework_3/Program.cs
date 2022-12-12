@@ -1,4 +1,4 @@
-﻿// Домашка 2
+﻿// Домашка 3
 
 Console.Write("Введите m: ");
 int m = Convert.ToInt32(Console.ReadLine());
@@ -10,6 +10,19 @@ Console.WriteLine($"m = {m}, n = {n}.");
 
 double[,] array = new double[m, n];
 
+CreateArrayDouble(array);
+
+void CreateArrayDouble(double[,] array)
+{
+  for (int i = 0; i < m; i++)
+  {
+    for (int j = 0; j < n; j++)
+    {
+      array[i, j] = new Random().NextDouble() * 20 - 10;
+    }
+  }
+}
+
 int[,] arrayWhole = new int[m, n];
 arrayWhole = TransformationArrayWhole(array);
 
@@ -19,7 +32,7 @@ Console.Write($"\nCреднее арифметическое:\n");
 for (int i = 0; i < n; i++)
 {
   double arithmeticMean = 0;
-  for (int j = 0; j < m; j++)
+  for (int j = 1; j < m; j++)
   {
     arithmeticMean += arrayWhole[j, i];
   }
