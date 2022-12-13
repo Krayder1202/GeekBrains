@@ -56,6 +56,6 @@ void Task()
     int[,] array = inputTwoDimenstions(ReadInt(), ReadInt());
     GetArrayAsString(array);
     Console.WriteLine();
-    Vozvrat(array);
+    Replace(array);
     GetArrayAsString(array);
 }

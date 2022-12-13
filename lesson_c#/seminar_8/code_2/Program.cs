@@ -34,20 +34,21 @@ void GetArrayAsString(int[,] massive)
         Console.WriteLine();
     }
 }
-
-int Vozvrat(int[,] array) 
-{ int sum =0;
-  for(int i = 0; i < array.GetLength(0); i++ )
-  { 
-    for (int j = 0; j < array.GetLength(1); j++)
+void Replace(int[,] array)
+{
+    for (int i = 0; i <array.GetLength(0); i++)
     {
-        if(i == j)
+        for (int j =0; j < array.GetLength(1); j++)
         {
-            sum = sum + array[i,j];
+            if ((i+1) % 2==0 && (j+1) % 2 == 0) 
+            
+            {
+                array[i, j] = array[i, j] * array[i, j];
+            }
         }
+
     }
-  }
- return sum;
+      
 }
 
 Task();
@@ -56,6 +57,6 @@ void Task()
     int[,] array = inputTwoDimenstions(ReadInt(), ReadInt());
     GetArrayAsString(array);
     Console.WriteLine();
-    Vozvrat(array);
+    Replace(array);
     GetArrayAsString(array);
 }
