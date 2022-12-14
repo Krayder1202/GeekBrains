@@ -1,6 +1,6 @@
 ﻿// Домашка 2
 
-nsole.WriteLine($"\nВведите размер массива m x n и диапазон случайных значений:");
+Console.WriteLine($"\nВведите размер массива m x n и диапазон случайных значений:");
 int m = InputNumbers("Введите m: ");
 int n = InputNumbers("Введите n: ");
 int range = InputNumbers("Введите диапазон: от 1 до ");
